@@ -1,10 +1,10 @@
 # icp.mcenahle.net
 
-继萌ICP备案之后，就一直想要搞一个自己的虚拟备案系统，终于在7月19日编写完毕！
+继萌ICP备案之后，就一直想要搞一个自己的虚拟备案系统，终于在7月19日编写完第一版程序，于21日基本编写完成，于25日决定采用GPLv3开源许可证进行开源，于27日发布在Github上！
 
 **注意：**
 
-本项目使用附加条款的[GPLv3 开源许可协议 ↗](https://www.gnu.org/licenses/gpl-3.0.zh-cn.html#license-text)进行开源。违反者将被撤销此项目的使用权。
+本项目使用附加条款的 [GPLv3 开源许可协议 ↗](https://www.gnu.org/licenses/gpl-3.0.zh-cn.html#license-text) 进行开源。违反者将被撤销此项目的使用权。
 
 附加条款如下：（依据 GPLv3 开源协议第七条）
 
