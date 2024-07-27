@@ -50,3 +50,5 @@ CREATE TABLE reports (
 注意，上面的“admin”和“admin123”是后期登录管理后台的用户名和密码。
 
 随后，将压缩包上传至网站根目录下，即可开始使用了！
+
+如果要报告bug，或要求添加新功能，请转到[issues](https://github.com/Mcenahle/icp.mcenahle.net/issues)。
