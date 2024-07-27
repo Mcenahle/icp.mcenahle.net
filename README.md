@@ -4,7 +4,7 @@
 
 **注意：**
 
-本项目使用附加条款的 [GPLv3 开源许可协议 ↗](https://www.gnu.org/licenses/gpl-3.0.zh-cn.html#license-text) 进行开源。违反者将被撤销此项目的使用权。
+本项目使用附加条款的 [GPLv3 开源许可协议 ↗](https://www.gnu.org/licenses/gpl-3.0.zh-cn.html#license-text) 进行开源。**违反者将被撤销此项目的使用权。**
 
 附加条款如下：（依据 GPLv3 开源协议第七条）
 
